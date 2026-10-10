@@ -1,2 +1,2 @@
-# -KPL-Coach-Mode-Test
+# KPL-Coach-Mode-Test
 Test
